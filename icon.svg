@@ -29,39 +29,41 @@
 				 C 262.5 57 209.2 -3.4 125.2 0.0
 				 z" />
 
-		<!-- Left Eye -->
-		<g>
-			<!-- White -->
-			<ellipse fill="#e4e7e7"
-					 cx="92"
-					 cy="124"
-					 rx="32"
-					 ry="32" />
+		<!-- Eyes -->
+		<g transform="translate(54.1, 100)">
+			<!-- Left Eye -->
+			<g>
+				<!-- White -->
+				<ellipse fill="#e4e7e7"
+						cx="32"
+						cy="32"
+						rx="24"
+						ry="24" />
 
-			<!-- Pupil -->
-			<ellipse fill="#324d5b"
-					 cx="92"
-					 cy="124"
-					 rx="13"
-					 ry="13" />
+				<!-- Pupil -->
+				<ellipse fill="#324d5b"
+						cx="32"
+						cy="32"
+						rx="13"
+						ry="13" />
+			</g>
+
+			<!-- Right Eye -->
+			<g>
+				<!-- White -->
+				<ellipse fill="#e4e7e7"
+						cx="128"
+						cy="32"
+						rx="24"
+						ry="24" />
+
+				<!-- Pupil -->
+				<ellipse fill="#324d5b"
+						cx="128"
+						cy="32"
+						rx="13"
+						ry="13" />
+			</g>
 		</g>
-
-		<!-- Right Eye -->
-		<g>
-			<!-- White -->
-			<ellipse fill="#e4e7e7"
-					 cx="188"
-					 cy="124"
-					 rx="32"
-					 ry="32" />
-
-			<!-- Pupil -->
-			<ellipse fill="#324d5b"
-					 cx="188"
-					 cy="124"
-					 rx="13"
-					 ry="13" />
-		</g>
-
 	</g>
 </svg>
