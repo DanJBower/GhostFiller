@@ -1,0 +1,45 @@
+{
+    "[git-commit]": {
+        "editor.rulers": [
+            {
+                "color": "#007a41",
+                "column": 50
+            },
+            {
+                "color": "#ad1a00",
+                "column": 72
+            }
+        ],
+        "editor.wordWrap": "off"
+    },
+    "debug.console.collapseIdenticalLines": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "explorer.compactFolders": false,
+    "files.insertFinalNewline": true,
+    "markdownlint.config": {
+        "default": true,
+        "no-inline-html": false
+    },
+    "scm.defaultViewMode": "tree",
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        {
+            "backgroundColor": "#b80505",
+            "color": "#fff",
+            "overviewRulerColor": "rgba(240,98,146,0.8)",
+            "text": "FIXME"
+        },
+        {
+            "backgroundColor": "#d36b03",
+            "color": "#fff",
+            "overviewRulerColor": "rgba(255,189,42,0.8)",
+            "text": "TODO"
+        }
+    ],
+    "trailing-spaces.trimOnSave": true
+}
