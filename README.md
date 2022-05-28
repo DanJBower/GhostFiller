@@ -31,3 +31,5 @@ Notes:
 - Needs to work for building swaps / module places
 - Needs to respect distance (i.e., work with long and far reach and probably others)
 - TODO Add some gifs of it working in
+- Mode can be hold to activate or toggle activate
+- Can still be toggled and hold to activate will become hold to deactivate lol
