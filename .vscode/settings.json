@@ -12,6 +12,9 @@
         ],
         "editor.wordWrap": "off"
     },
+    "cSpell.words": [
+        "Factorio"
+    ],
     "debug.console.collapseIdenticalLines": false,
     "editor.bracketPairColorization.enabled": true,
     "editor.formatOnPaste": true,
