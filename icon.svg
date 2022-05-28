@@ -35,7 +35,7 @@
 			<!-- Left Eye -->
 			<g>
 				<!-- White -->
-				<ellipse fill="#e4e7e7"
+				<ellipse fill="white"
 						cx="32"
 						cy="32"
 						rx="24"
@@ -52,7 +52,7 @@
 			<!-- Right Eye -->
 			<g>
 				<!-- White -->
-				<ellipse fill="#e4e7e7"
+				<ellipse fill="white"
 						cx="128"
 						cy="32"
 						rx="24"

@@ -1,6 +1,6 @@
 # GhostPlacer
 
-![GhostPlacer Icon](icon.png)
+<img src="icon.png" width="400" height="400" />
 
 A Factorio mod for quickly placing down items in the correct place!
 
