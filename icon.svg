@@ -1,10 +1,7 @@
-<svg viewBox="0 0 1000 1000"
-	 style="background-color: green"
-	 xmlns="http://www.w3.org/2000/svg"
-	 xmlns:xlink="http://www.w3.org/1999/xlink">
-	<g transform="matrix(2.5, 0, 0, 2.5, 0, 0)">
+<svg viewBox="0 0 1000 1000">
+	<g transform="matrix(2.5, 0, 0, 2.5, 171.5, 64.33)">
 		<!-- Body -->
-		<path fill="#e2574c"
+		<path fill="#725cb1"
 			  d="M 125.2 0.0
 			     C 35 0 0 64 0 125.2
 				 v 150
