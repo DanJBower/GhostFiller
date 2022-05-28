@@ -1,4 +1,4 @@
-# GhostPlacer
+# GhostFiller
 
 <img src="icon.png" width="400" height="400" />
 
@@ -9,8 +9,6 @@ A Factorio mod for quickly placing down items in the correct place!
 Mod page:
 
 ## Thoughts
-
-GhostPlacer
 
 - Mode 1 (Place when holding item)
   - Options:
